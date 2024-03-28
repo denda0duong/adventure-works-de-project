@@ -1,6 +1,6 @@
-## End-to-End Data Solution Development
+# End-to-End Data Solution Development
 
-The use case for this project is building an end to end solution by ingesting the tables from on-premise SQL Server database using Azure Data Factory and then store the data in Azure Data Lake. Next, Azure databricks is used to transform the Raw data to the cleanest form of data. After that, I used Azure Synapse Analytics to load the clean data and finally used Microsoft Power BI to integrate with Azure synapse analytics to build an interactive dashboard. Also, I am using Azure Active Directory (AAD) and Azure Key Vault for the monitoring and governance purpose.
+The use case for this project is building an end-to-end solution by ingesting the tables from the on-premise SQL Server database using Azure Data Factory and then storing the data in Azure Data Lake. Next, Azure Databricks is used to transform the Raw data to the cleanest form of data. After that, I used Azure Synapse Analytics to load the clean data and finally used Microsoft Power BI to integrate with Azure Synapse Analytics to build an interactive dashboard. Also, I am using Azure Active Directory (AAD) and Azure Key Vault for monitoring and governance purposes.
 
 The tools that are covered in this project are:
 
